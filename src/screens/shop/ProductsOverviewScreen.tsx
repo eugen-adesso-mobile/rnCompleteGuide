@@ -1,8 +1,8 @@
 import React from 'react';
-import {FlatList} from 'react-native';
+import {View} from 'react-native';
 
 const ProductsOverviewScreen = () => {
-  return <FlatList />;
+  return <View>aafa</View>;
 };
 
 export default ProductsOverviewScreen;
